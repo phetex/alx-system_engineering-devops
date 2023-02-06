@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/ba
 echo hello $MYUSER
+=======
+#!/bin/bash
+echo hello user
+>>>>>>> 89f06e20ba2b8d75affe8258cef6ff60c39e7714
